@@ -1,6 +1,8 @@
 # Privacy Policy 
 
-The data you enter for Distance Tracker is stored on your device. No data is stored, collected and/or shared. 
+The data you enter for Distance Track is stored on your device. 
+
+No data is collected and/or shared. 
 
 # Support 
 
