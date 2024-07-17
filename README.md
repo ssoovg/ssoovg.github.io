@@ -1,6 +1,6 @@
 # Privacy Policy 
 
-The data you enter for DistanceTrack is stored on your device. 
+The data you enter into the App is stored on your device. 
 
 No data is collected and/or shared. 
 
